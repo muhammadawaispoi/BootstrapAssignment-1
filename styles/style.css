@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header,footer{
+  background-color: #1d3557;
+}
+
+
+/* #alert-btn{
+  border: none;
+  background-color: red;
+} */
+ /* main #alert1{
+  width: 100px;
+
+}
+main #alertn{
+  width: 110px;
+  margin-left: 22px;
+}
+main #showvn{
+  width: 151px;
+
+}
+main #showce{
+  width: 184px;
+} */
+header span{
+  font-size: medium;
+}
+
+
+
+
+
+
